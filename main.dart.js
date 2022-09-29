@@ -63202,32 +63202,32 @@ aW(){this.d=A.a([!1,!1,!1,!1,!1,!1,!1,!1,!1,!1],t.HZ)
 this.bs()},
 jH(a,b,c,d){var s=this,r=null,q=J.f(J.al(A.b(s.d,"hoverState"),b),!1)?10:0,p=A.bn(0,100),o=t.w,n=A.ku(s.c.F(o).f.a.a/s.c.F(o).f.a.b>1?30:10)
 return A.Cb(A.vE(!1,!0,A.cN(r,r,r,new A.dr(a,A.DQ(B.cj,new A.hd(c,r,r),!1),r,n,A.a([new A.ii(0,B.l2,A.aK(B.e.am(25.5),a.gn(a)>>>16&255,a.gn(a)>>>8&255,a.gn(a)&255),B.j,20)],t.sq),r,B.at),r,r,r,r),r,!0,r,r,r,r,r,r,r,new A.a8H(s,b),r,new A.a8I(d),r,r,r),p,new A.be(q,q,q,q))},
-V(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d="https://www.behance.net/gallery/152935975/KonnekApp",c=t.w,b=a2.F(c).f,a=a2.F(c).f.a.a/15,a0=a2.F(c).f.a.a/48
-a0=A.IO("Projects",e,A.VT(e,a0>24?a0:24,B.ac),e,e)
+V(a0,a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d=t.w,c=a1.F(d).f,b=a1.F(d).f.a.a/15,a=a1.F(d).f.a.a/48
+a=A.IO("Projects",e,A.VT(e,a>24?a:24,B.ac),e,e)
 s=A.cX(e,20,e)
-r=a2.F(c).f.a.a/110
+r=a1.F(d).f.a.a/110
 r=A.a17("Below are mentioned some projects I have worked on over the years, feel free to browse",A.EV(B.u,r>14?r:14,1.5,e))
 q=A.cX(e,80,e)
-p=a2.F(c).f.a.a/a2.F(c).f.a.b>1?10:6
-o=A.nO(f.jH(B.Hc,0,"assets/Projects/4.jpg",d),6,5)
-n=A.nO(f.jH(B.Hb,7,"assets/Projects/46.png",d),6,5)
+p=a1.F(d).f.a.a/a1.F(d).f.a.b>1?10:6
+o=A.nO(f.jH(B.Hc,0,"assets/Projects/4.jpg","https://www.behance.net/gallery/152935975/KonnekApp"),6,5)
+n=A.nO(f.jH(B.Hb,7,"assets/Projects/46.png","https://www.behance.net/gallery/153724463/User-Study-Work-breaks-of-cleaning-staff"),6,5)
 m=A.nO(f.jH(B.Hd,1,"assets/Projects/20.jpg","https://www.behance.net/gallery/153527767/Design-for-kids-with-learning-disabilities"),6,5)
-l=a2.F(c).f.a.a/a2.F(c).f.a.b>1?4:6
-k=a2.F(c).f.a.a/a2.F(c).f.a.b>1?3:5
+l=a1.F(d).f.a.a/a1.F(d).f.a.b>1?4:6
+k=a1.F(d).f.a.a/a1.F(d).f.a.b>1?3:5
 k=A.nO(f.jH(B.m,4,"assets/Projects/27.png","https://www.behance.net/gallery/153570883/MoonVault"),l,k)
-l=a2.F(c).f.a.a/a2.F(c).f.a.b>1?4:6
-j=a2.F(c).f.a.a/a2.F(c).f.a.b>1?3:5
+l=a1.F(d).f.a.a/a1.F(d).f.a.b>1?4:6
+j=a1.F(d).f.a.a/a1.F(d).f.a.b>1?3:5
 j=A.nO(f.jH(B.m,5,"assets/Projects/33.png","https://www.behance.net/gallery/153607009/Branding-Edvi"),l,j)
-l=a2.F(c).f.a.a/a2.F(c).f.a.b>1?4:6
-i=a2.F(c).f.a.a/a2.F(c).f.a.b>1?3:5
+l=a1.F(d).f.a.a/a1.F(d).f.a.b>1?4:6
+i=a1.F(d).f.a.a/a1.F(d).f.a.b>1?3:5
 i=A.nO(f.jH(B.m,6,"assets/Projects/53.jpg","https://www.behance.net/gallery/153607735/Branding-Medox"),l,i)
-l=a2.F(c).f.a.a/a2.F(c).f.a.b>1?4:6
-h=a2.F(c).f.a.a/a2.F(c).f.a.b>1?3:5
+l=a1.F(d).f.a.a/a1.F(d).f.a.b>1?4:6
+h=a1.F(d).f.a.a/a1.F(d).f.a.b>1?3:5
 h=A.nO(f.jH(B.m,9,"assets/Projects/56.png","https://www.behance.net/gallery/153679343/Lettering-Samples-22"),l,h)
-l=a2.F(c).f.a.a/a2.F(c).f.a.b>1?4:6
-c=a2.F(c).f.a.a/a2.F(c).f.a.b>1?3:5
+l=a1.F(d).f.a.a/a1.F(d).f.a.b>1?4:6
+d=a1.F(d).f.a.a/a1.F(d).f.a.b>1?3:5
 g=t.G
-return A.cN(e,new A.fR(new A.be(a,0,a,0),A.uy(A.a([a0,s,r,q,new A.Iy(new A.a2Y(p),20,20,e,A.a([o,n,m,k,j,i,h,A.nO(f.jH(B.m,8,"assets/Projects/57.png","https://www.behance.net/gallery/153680187/Microinteractions"),l,c)],g),e)],g),B.bg,B.c0,B.aJ),e),e,e,e,e,e,b.a.a*0.86)}}
+return A.cN(e,new A.fR(new A.be(b,0,b,0),A.uy(A.a([a,s,r,q,new A.Iy(new A.a2Y(p),20,20,e,A.a([o,n,m,k,j,i,h,A.nO(f.jH(B.m,8,"assets/Projects/57.png","https://www.behance.net/gallery/153680187/Microinteractions"),l,d)],g),e)],g),B.bg,B.c0,B.aJ),e),e,e,e,e,e,c.a.a*0.86)}}
 A.a8H.prototype={
 $1(a){var s=this.a
 s.aw(new A.a8G(s,this.b,a))},
